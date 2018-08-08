@@ -4,8 +4,8 @@ The `moodle.py` script downloads all the files posted in the course page of all 
 
 Set the following in the file `config.ini` before running the script
 
-- `username` : LDAP Username
-- `password` : LDAP Password
+- `username` : Your username
+- `password` : Your password
 - `url` : URL for moodle authentication
 
 All the files are stored in their respective directories inside the `courses` directory with the names as in moodle.
